@@ -1,5 +1,7 @@
 # Substrate Stablecoin Sample Node
 
+https://www.youtube.com/watch?v=bnC5RQsaAXQ&t=2109s
+
 A FRAME-based Substrate node showcasing the [`pallet-stablecoin`] where the price can be pulled via offchain worker.
 
 Based on the Substrate node template.
