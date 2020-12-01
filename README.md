@@ -1,6 +1,6 @@
 # Substrate Stablecoin Sample Node
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=bnC5RQsaAXQ&t=2109s)
+[![Youtube Video Tutorial](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=bnC5RQsaAXQ&t=2109s)
 
 
 
